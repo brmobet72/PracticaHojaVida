@@ -1,2 +1,1 @@
-Realizando PULL al Servidor Remoto
-
+Realizando Fetch
